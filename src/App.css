@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 80vh;
+}

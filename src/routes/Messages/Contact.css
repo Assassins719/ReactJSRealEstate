@@ -1,0 +1,36 @@
+.history_div{
+    height: 100%;
+	background: #F5F5F5;
+	overflow-y: scroll;
+}
+.contact{
+    text-align: left;
+    border: none;
+    border-top: 1px rgb(204, 204, 204) solid;
+    padding: 5px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.active{
+    text-align: left;
+    border: none;
+    border-top: 1px rgb(204, 204, 204) solid;
+    padding: 5px;
+    padding-left: 10px;
+    font-size: 20px;
+    background: #fff;
+}
+.selected{
+    border-left: 2px #FF6E4C solid;
+    color: #FF6E4C;
+    background: #fff;
+}
+.contactname{
+    padding-left: 10px;
+    color: #444;
+}
+.img-circle {
+    border-radius: 50%;
+    height:50px;
+    width:50px;
+  }

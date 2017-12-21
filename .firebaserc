@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "homepointr-dev",
+    "default": "homepointr-8cf6b"
+  }
+}

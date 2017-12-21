@@ -1,0 +1,45 @@
+[
+    {
+            "landlordName":"Bield Housing & Care",
+            "lettingType":"Supported Housing",
+            "ref":"BDF00456",
+            "thumbnailImage": "http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg",
+            "images":[
+                "http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg",
+                "http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg",
+                "http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg",
+                "http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg"
+            ],
+            "keyFacts":[
+                "1st Floor (lift not available",
+                "flat",
+                "1 bedroom",
+                "Closure date: 30th may 2018 at 12.30"
+            ],
+            "charges":{
+                "rent":"£297.33 Monthly",
+                "energyAndHeating":"£27.59 monthly",
+                "tenancyAndService":"£142.76 monthly",
+                "total":"£467.68 Monthly (not including and future charges"
+            },
+            "features":{
+
+            },
+            "other":[
+                "1 bedroom flat, 1st floor (no lift available)",
+                "Wet Floor Show"
+            ],
+            "yourNearest":{
+                "transportLinks":"Bus stop (0.1 miles)",
+                "education":"Primary school (0.1 miles), Secondary school (0.3 miles)",
+                "pubsBarsRestaurants":"Hen volunatary Service (0.5 miles), Colny Fish (0.5 miles)"
+            },
+            "mapData":{
+                "long":"longitude",
+                "lat":"latitude"
+            },
+            "landlordInformation":{
+
+            }
+        }
+]

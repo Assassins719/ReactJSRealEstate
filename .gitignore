@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules
+.idea
+
+functions/node_modules
+build
+
+firebase-admin/node_modules
+firebase-admin/homepointr-8cf6b-firebase-adminsdk-z286z-3934997e57.json

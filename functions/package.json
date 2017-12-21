@@ -1,0 +1,13 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "dependencies": {
+    "@google-cloud/logging": "^1.1.1",
+    "algolia-search": "^2.0.1",
+    "algoliasearch": "^3.24.4",
+    "firebase-admin": "^5.2.1",
+    "firebase-functions": "^0.6.3",
+    "stripe": "^5.2.0"
+  },
+  "private": true
+}
